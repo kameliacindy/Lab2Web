@@ -5,11 +5,13 @@ Internal CSS adalah kode CSS yang ditulis di dalam tag  `<style>`. Internal CSS 
 Tag  `<style>`  biasanya ditulis di dalam tag  `<head>`. Bisa juga ditulis di dalam  `<body>`, namun lebih banyak ditulis di dalam  `<head>`.
 
 **Contoh pendeklarasian CSS Internal:**
+
 ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode2.PNG)
 
 Terdapat tag `<style>` di dalam tag `<head>` dalam kode di atas.
 
 **Hasilnya:**
+
 ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/ss2.PNG)
 
 **Manfaat internal CSS:**
@@ -88,6 +90,7 @@ Berikut ini penulisan HTML versi lengkapnya:
  - Class Selector dibuat dengan tanda titik `(.)` di depannya.
  
  **Contoh ID dan Class Selector:**
+ 
  ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode5.PNG)
 
 **Hasilnya:**
