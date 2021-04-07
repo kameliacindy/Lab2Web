@@ -143,7 +143,8 @@ terlihat bahwa yang ditampilkan dalam browser adalah deklarasi Inline CSS, seper
 
  - **Hasilnya:**
  
- ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode9.PNG)
+![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/ss7.PNG)
+
 
 Semoga bermanfaat...
 
