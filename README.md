@@ -147,5 +147,7 @@ terlihat bahwa yang ditampilkan dalam browser adalah deklarasi Inline CSS, seper
 Semoga bermanfaat...
 
 Nama	: Kamelia Cindy Astuti
+
 NIM	: 311910104
+
 Kelas	: TI. 19. A. 1
