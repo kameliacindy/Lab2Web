@@ -1,5 +1,5 @@
 ## Praktikum 2 : CSS Dasar
-### 1. CSS Internal (Internal CSS)
+### 1. CSS Internal
 Internal CSS adalah kode CSS yang ditulis di dalam tag  `<style>`. Internal CSS juga dikenal dengan sebutan  _Embeded CSS_.
 
 Tag  `<style>`  biasanya ditulis di dalam tag  `<head>`. Bisa juga ditulis di dalam  `<body>`, namun lebih banyak ditulis di dalam  `<head>`.
@@ -14,7 +14,7 @@ Terdapat tag `<style>` di dalam tag `<head>` dalam kode di atas.
 
 ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/ss2.PNG)
 
-**Manfaat internal CSS:**
+**Manfaat Internal CSS:**
 
 -   Perubahan hanya terjadi pada 1 halaman
 -   Class dan ID bisa digunakan oleh internal stylesheet
