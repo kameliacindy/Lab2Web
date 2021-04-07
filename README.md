@@ -104,7 +104,6 @@ Berikut ini penulisan HTML versi lengkapnya:
 diletakkan pada tag `<style>` dan berada didalam tag `<head>`, dan merupakan contoh pendeklarasian CSS Internal.
  - Sedangkan, elemen `#intro h1 {...}`merupakan salah satu elemen dalam pendeklarasian ID Selector, dimana intro merupakan pembuka website sebelum masuk ke tampilan utama halaman website.
  3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser?
- 
  **Jawab:**
  
  - Deklarasi yang akan ditampilkan pada browser adalah **Inline CSS**. 
@@ -127,7 +126,6 @@ File khusus berekstensi `.css` dalam deklarasi CSS Eksternal.
 terlihat bahwa yang ditampilkan dalam browser adalah deklarasi Inline CSS, seperti penggunaan property `font-family` dan `color`.
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-
 **Jawab:**
 
  - Deklarasi yang akan ditampilkan pada browser adalah deklarasi **ID Selector**.
