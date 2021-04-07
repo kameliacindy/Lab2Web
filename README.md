@@ -55,7 +55,7 @@ Sebagai contoh, saya membuat sebuah file bernama `.css`. Berikut ini isi file `s
 
 ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode4b.PNG)
 
-Untuk menggunakan CSS Eksternal dalam HTML, kita perlu mengimpornya dengan menggunakan tag `<link>` dan biasanya diletakkan setelah bagian `<head>`, seperti contoh di bawah ini:
+Untuk menggunakan CSS Eksternal dalam HTML, kita perlu mengimpornya dengan menggunakan tag `<link>` dan biasanya diletakkan pada bagian `<head>`, seperti contoh di bawah ini:
 
 ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode4c.PNG)
 
@@ -67,13 +67,13 @@ Berikut ini penulisan HTML versi lengkapnya:
 
 ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/ss4.PNG)
 
-**Manfaat CSS eksternal:**
+**Manfaat CSS Eksternal:**
 
 -   Ukuran file HTML menjadi lebih kecil dan strukturnya lebih rapi
 -   Kecepatan loading menjadi lebih cepat
 -   File CSS yang sama bisa digunakan di banyak halaman.
 
-**Kekurangan CSS eksternal:**
+**Kekurangan CSS Eksternal:**
 
 -   Halaman belum tampil secara sempurna hingga file CSS selesai dipanggil.
 
