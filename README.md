@@ -97,17 +97,21 @@ Berikut ini penulisan HTML versi lengkapnya:
 
 ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/ss5.PNG)
 
-## Jawaban
+## Jawaban dari pertanyaan pada Praktikum 2
 1. 
 2. Perbedaan pendeklarasian CSS elemen `h1 {...}` dengan `#intro h1 {...}`:
  - Pada elemen `h1 {...}` merupakan salah satu elemen yang 
 diletakkan pada tag `<style>` dan berada didalam tag `<head>`, dan merupakan contoh pendeklarasian CSS Internal.
  - Sedangkan, elemen `#intro h1 {...}`merupakan salah satu elemen dalam pendeklarasian ID Selector, dimana intro merupakan pembuka website sebelum masuk ke tampilan utama halaman website.
  3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser?
+ 
  **Jawab:**
+ 
  - Deklarasi yang akan ditampilkan pada browser adalah **Inline CSS**. 
  - Penggunakan CSS Inline hanya sebatas pada kode markup HTML saja yang ingin dilakukan perubahan pada bagian tersebut secara langsung. Jadi tidak dibutuhkan kode CSS dengan struktur yang baku.
+ 
  - **Contoh:**
+ 
  Deklarasi CSS Internal, CSS Eksternal, dan Inline CSS.
  
  ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode6.PNG)
@@ -121,3 +125,28 @@ File khusus berekstensi `.css` dalam deklarasi CSS Eksternal.
 ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/ss6.PNG)
 
 terlihat bahwa yang ditampilkan dalam browser adalah deklarasi Inline CSS, seperti penggunaan property `font-family` dan `color`.
+
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+
+**Jawab:**
+
+ - Deklarasi yang akan ditampilkan pada browser adalah deklarasi **ID Selector**.
+ - ID Selector ini merupakan selector untuk menentukan bagian yang hanya ada satu pada halaman dan juga menentukan style nya. Jadi selector ID ini tidak bisa dipanggil lebih dari satu. Jika ada dua, maka hanya bekerja pada bagian pertama saja.
+ 
+ - **Contoh:**
+ 
+ ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode8.PNG)
+
+
+![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode9.PNG)
+ 
+
+ - **Hasilnya:**
+ 
+ ![enter image description here](https://github.com/kameliacindy/Lab2Web/blob/main/img/kode9.PNG)
+
+Semoga bermanfaat...
+
+Nama	: Kamelia Cindy Astuti
+NIM	: 311910104
+Kelas	: TI. 19. A. 1
